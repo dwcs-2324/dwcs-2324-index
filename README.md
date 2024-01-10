@@ -8,7 +8,7 @@
 [Tarea03.1-Propuesta-Sol bookdb-PDO](https://github.com/dwcs-2324/Tarea03-bookdb-sol.git)<br/>
 
 ## UD4
-[Código de la plataforma](https://github.com/dwcs-2324/DWCS_UD4_Codigo_Plataforma.git)<br/>
+[Código de la plataforma UD4 con ligeras modificaciones](https://github.com/dwcs-2324/DWCS_UD4_Codigo_Plataforma.git)<br/>
 
 
 ## Pruebas 1ª Evaluación
