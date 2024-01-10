@@ -9,6 +9,7 @@
 
 ## UD4
 [Código de la plataforma UD4 con ligeras modificaciones](https://github.com/dwcs-2324/DWCS_UD4_Codigo_Plataforma.git)<br/>
+[Actividad 4.1 registro de usuario e inicio de sesión con password_hash y password_verify](https://github.com/dwcs-2324/Actividad4.1-Sol.git)<br/>
 
 
 ## Pruebas 1ª Evaluación
