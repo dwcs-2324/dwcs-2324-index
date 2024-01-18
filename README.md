@@ -11,6 +11,7 @@
 [Código de la plataforma UD4 con ligeras modificaciones](https://github.com/dwcs-2324/DWCS_UD4_Codigo_Plataforma.git)<br/>
 [Actividad 4.1 registro de usuario e inicio de sesión con password_hash y password_verify](https://github.com/dwcs-2324/Actividad4.1-Sol.git)<br/>
 [Actividad 4.2 cookies Sol.](https://github.com/dwcs-2324/Actividad-4.2-Ejercicios-con-cookies-Sol.git)<br/>
+[Actividad 4.3 sesiones Sol.](https://github.com/dwcs-2324/Actividad-4.3-Textos-sesiones-SOL.git)<br/>
 
 
 ## Pruebas 1ª Evaluación
