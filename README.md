@@ -12,6 +12,7 @@
 [Actividad 4.1 registro de usuario e inicio de sesión con password_hash y password_verify](https://github.com/dwcs-2324/Actividad4.1-Sol.git)<br/>
 [Actividad 4.2 cookies Sol.](https://github.com/dwcs-2324/Actividad-4.2-Ejercicios-con-cookies-Sol.git)<br/>
 [Actividad 4.3 sesiones Sol.](https://github.com/dwcs-2324/Actividad-4.3-Textos-sesiones-SOL.git)<br/>
+[Tarea04.1-sol](https://github.com/dwcs-2324/Tarea04.1-sol.git)<br/>
 
 ## UD5
 [Actividad 5.1 Academia baile Sol](https://github.com/dwcs-2324/Actividad5.1-Academia-baile-sol.git)<br/>
