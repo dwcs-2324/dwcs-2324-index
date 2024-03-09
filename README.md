@@ -22,7 +22,7 @@
 
 ## UD6
 [Tarea06.1 API -sol](https://github.com/dwcs-2324/Tarea06.1-sol.git)<br/>
-[Tarea06.1 API client](https://github.com/dwcs-2324/Tarea06.1-api-client-sol.git)<br/>
+[Tarea06.1 API client-sol](https://github.com/dwcs-2324/Tarea06.1-api-client-sol.git)<br/>
 
 
 ## Pruebas 1ª Evaluación
