@@ -30,3 +30,9 @@
 [Prueba práctica UD3 Ejercicio 1 con PDO-Propuesta-Sol](https://github.com/dwcs-2324/Prueba_UD3_ejercicio1_PDO_sol.git)<br/>
 [Prueba práctica UD3 Ejercirio 2 con MongoDB-Propuesta-Sol](https://github.com/dwcs-2324/Prueba_UD3_EjercicioMongoDB_Sol.git)<br/>
 
+## Pruebas 2ª Evaluación 
+[Prueba práctica UD4 Propuesta-Sol](https://github.com/dwcs-2324/Prueba-pr-ctica-UD4-sol.git)<br/>
+[Prueba práctica UD5 Propuesta-Sol](https://github.com/dwcs-2324/PruebaPractica_UD5-sol.git)<br/>
+[Prueba práctica UD6 Propuesta-Sol](https://github.com/dwcs-2324/PruebaPractica_UD6_sol.git)
+
+
