@@ -26,6 +26,7 @@
 
 ## UD7
 [Actividad 7.1-sol](https://github.com/dwcs-2324/Actividad-7.1-sol.git)<br/>
+[Actividad 7.2-sol](https://github.com/dwcs-2324/Actividad-7.2-sol.git)<br/>
 
 
 ## Pruebas 1ª Evaluación
