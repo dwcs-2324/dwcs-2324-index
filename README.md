@@ -43,4 +43,8 @@
 [Prueba práctica UD5 Propuesta-Sol](https://github.com/dwcs-2324/PruebaPractica_UD5-sol.git)<br/>
 [Prueba práctica UD6 Propuesta-Sol](https://github.com/dwcs-2324/PruebaPractica_UD6_sol.git)
 
+## Pruebas 3ª Evaluación
+[Prueba práctica UD7 Propuesta-Sol](https://github.com/dwcs-2324/PruebaUD7-Sol)<br/>
+[Prueba práctica UD8 Propuesta-Sol](https://github.com/dwcs-2324/PruebaUD8-sol.git)
+
 
