@@ -47,4 +47,12 @@
 [Prueba práctica UD7 Propuesta-Sol](https://github.com/dwcs-2324/PruebaUD7-Sol)<br/>
 [Prueba práctica UD8 Propuesta-Sol](https://github.com/dwcs-2324/PruebaUD8-sol.git)
 
+## Pruebas evaluación final
+Tarea R-UD6 => Como es única para cada alumno/a, ver soluciones de tareas de la UD6 <br/>
+[Tarea R-UD7](https://github.com/dwcs-2324/R-UD7-SOL.git)<br/>
+[Tarea R-UD8](https://github.com/dwcs-2324/R-UD8-SOL.git)<br/>
 
+Prueba R-UD1 => Ver solución Tarea de la UD1
+[Prueba R-UD3](https://github.com/dwcs-2324/R-UD3-SOL.git)<br/>
+[Prueba R-UD4](https://github.com/dwcs-2324/R-UD4-SOL.git)<br/>
+[Prueba R-UD5](https://github.com/dwcs-2324/R-UD5-SOL.git)<br/>
